@@ -9,6 +9,9 @@ let f = "meow";
 let g = "dog";
 let h = "bone";
 
-myObj['a'] = a;
+myObj[a] = b;
+myObj[c] = d;
+myObj[e] = f;
+myObj[g] = h;
 
 console.log(myObj);
